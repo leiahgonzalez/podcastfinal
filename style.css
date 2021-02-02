@@ -127,6 +127,10 @@ body{
     grid-gap: 72px;
     justify-content: center;
 }
+iframe{
+    width: 584px;
+    height: 232px;
+}
 .foto{
     width: 509px;
 }
